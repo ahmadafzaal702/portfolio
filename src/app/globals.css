@@ -1,0 +1,71 @@
+/* Include the Saira font */
+@import url('https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Include the Lora font */
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap");
+
+/* Include the Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  body {
+    @apply font-paragraph;
+    /* @apply font-paragraph max-w-screen-2xl mx-auto; */
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading text-black;
+  }
+
+  h1 {
+    @apply text-4xl sm:text-6xl font-extrabold tracking-widest;
+  }
+
+  h2 {
+    @apply text-xl sm:text-2xl font-semibold;
+  }
+
+  h3 {
+    @apply text-xl sm:text-2xl font-semibold;
+  }
+
+  h4 {
+    @apply text-lg font-semibold;
+  }
+
+  p {
+    @apply text-base text-paragraph font-paragraph font-normal;
+  }
+
+  a {
+    @apply text-base font-link font-medium;
+  }
+
+  ul li {
+    @apply text-base text-paragraph font-paragraph font-normal;
+  }
+}
+
+main {
+  min-height: calc(100vh - 41px);
+}
+
+.active {
+  color: #ffffff;
+}
