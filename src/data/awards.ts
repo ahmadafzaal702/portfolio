@@ -1,8 +1,8 @@
 export const AwardsData: string[] = [
-    "Currently enrolled in the PIAIC-driven Developer Program for AI, Metaverse, and Web 3.0.",
-    "Completed the courses React - The Complete Guide (incl. React Router & Redux), Tailwind CSS, and the Typescript – Udemy.",
-    "Certificate of E-Rozgaar Training Program in ‘TECHNICAL’ course track.",
-    "Certificate of Excellence from the University of Gujrat.",
+    "Currently enrolled in Complete Guide to Building, Deploying, and Generative AI with LangChain and Hugging Face – Udemy.",
+    "React - The Complete Guide (incl. React Router & Redux), Tailwind CSS, and the Typescript – Udemy.",
+    "E-Rozgaar Training Program (Technical Track).",
+    "Certificate of Excellence – University of Gujrat.",
     "Event Organizer of Hayatian Information Technology Society, University of Gujrat.",
     "Received a laptop as recognition for exceptional academic performance."
 ]

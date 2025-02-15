@@ -10,26 +10,31 @@ export const skillsSummary: SkillSummaryI[] = [
     {
         slug: "frontend",
         category: "Frontend Development",
-        skills: "JavaScript, React.Js, Next.Js, Typescript, React Native, Redux, Redux-Toolkit, Vanilla JS, AngularJS, Vue.js, JSON, AJAX, SCSS/SASS, LESS, Tailwind CSS, DevExpress, Ant-Design, Chakra UI, Shadcn/ui, Bootstrap, Material UI, DOM, ES6, jQuery, Jest, Axios, Hooks, Webpack, XML, HTML5, CSS3, Flex Box, Grid Layout, RESTful API, Third Party Libraries.",
+        skills: "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Redux Toolkit, JSON, AJAX, SCSS/SASS, LESS, Tailwind CSS, Ant Design, Chakra UI, Shadcn/ui, Bootstrap, Material UI, DOM, ES6, jQuery, Hooks, Webpack, HTML5, CSS3, RESTful APIs, Third-Party Libraries.",
     },
     {
         slug: "backend",
         category: "Backend Development",
-        skills: "NodeJS/ExpressJS, MongoDB, Mongoose, MySQL, PostgreSQL, GraphQL, Redis, PHP, ASP.NET Core, Python, Model-View-Controller(MVC), ORM (Drizzle, Prisma), CMS (Sanity & Contentful).",
+        skills: "Node.js/Express.js, FastAPI, Python, MongoDB, Mongoose, MySQL, PostgreSQL, Model-View-Controller (MVC), Pinecone.",
+    },
+    {
+        slug: "mlai",
+        category: "Machine Learning & AI",
+        skills: "NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, ANN, RNN, LSTM, Transformers, LangChain, Hugging Face, OpenAI API.",
     },
     {
         slug: "server",
         category: "Server & Domain",
-        skills: "Heroku, Vercel, AWS, Digital Ocean, Apache, Google Cloud, Cloudinary.",
+        skills: "Vercel, AWS, AWS Amplify, Lambda Functions, API Gateway, S3 Bucket, Cloudinary.",
     },
     {
         slug: "soft",
         category: "Soft Skills",
-        skills: "Teamwork, Communication, Troubleshooting, Adaptability, Problem Solving, Work Ethics, Project Management, Open to Positive Criticism, Ability to Work Under Pressure, Attention to Details.",
+        skills: "Teamwork, Communication, Troubleshooting, Problem Solving, Work Ethics, Open to Positive Criticism, Adaptability, Collaboration, Ability to Work Under Pressure, Attention to Details.",
     },
     {
         slug: "tools",
         category: "Tools/OS",
-        skills: "Visual Code, Protégé, GIT, GitHub, SVN, Bitbucket, Jira, Postman, (Word/PowerPoint/Excel/Visio), Photoshop, Figma, Npm, Yarn.",
+        skills: "Visual Studio Code, GIT, GitHub, Gitlab, Jira, Postman, Figma, Npm, Pip, Anaconda, Google Colab, Jupyter Notebooks.",
     },
 ];
