@@ -21,9 +21,9 @@ export const ExperiencesData: ExperiencesInterface[] = [
         isPresent: true,
         location: "Dubai, United Arab Emirates",
         responsibilities: [
-            "Frontend development for Business Intelligence software using JavaScript, ReactJS, Bootstrap, jQuery, and other libraries.",
-            "Implement best practices to ensure scalability of the front-end codebase, focusing on creating reusable components.",
+            "Frontend development for Business Intelligence software using JavaScript, ReactJS, Bootstrap, JQuery and other libraries.",
             "Collaborate with backend team and integrate the API’s build using ASP.NET Core for effective client-server communication.",
+            "Integrate an AI-powered Chatbot into the application, through conversational interfaces and real-time interactions.",
             "Utilize Jira for Agile project management, defining and tracking tasks to ensure timely project completion and collaboration.",
             "Implement GIT for version control, ensuring codebase integrity and facilitating collaborative development within the team.",
         ]

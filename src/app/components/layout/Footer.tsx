@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <>
             <footer className="p-2 bg-primary text-center">
-                <span className="text-menu-color text-base font-paragraph">JavaScript • TypeScript • React.js • Next.js • Node.js</span>
+                <span className="text-menu-color text-base font-paragraph">JavaScript • TypeScript • React.js • Next.js • Node.js • Python • LangChain • Generative AI</span>
             </footer>
 
 

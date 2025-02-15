@@ -28,7 +28,7 @@ interface PersonalDetailsI {
 
 export const personalDetails: PersonalDetailsI = {
     name: "Afzaal Ahmad",
-    title: "Full Stack Developer | Reactjs | Nodejs | Nextjs",
+    title: "Full Stack Developer | AI/ML Enthusiast",
     address: "Bur Dubai, Dubai, UAE",
     visa: "Residence Visa",
     contact: {

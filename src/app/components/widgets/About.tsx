@@ -31,7 +31,7 @@ const About = () => {
                             &nbsp; <a href="mailto:ahmadafzaal703@gmail.com" className="text-primary underline">{personalDetails.contact.email}</a>
                         </p>
 
-                        <p>A dedicated Full Stack Developer with over 5 years of experience in web development. With a Master&apos;s degree in Information Technology, I specialize in creating seamless and robust digital solutions. My technical expertise includes HTML, CSS, JavaScript, Typescript, React.js, Next.js, Node.js, and both SQL and NoSQL databases. Proficiency in state management tools such as Redux and Context API, and seamlessly integrating APIs to enhance application functionality.</p>
+                        <p>A highly motivated Full Stack Developer with a Master&apos;s degree in Information Technology and 5+ years of experience, expanding expertise in Artificial Intelligence (AI), Machine Learning (ML), and Generative AI. Skilled in developing scalable, high-performance web applications using JavaScript, React, Next.js, Node.js, and TypeScript, while integrating AI-driven solutions with Python, TensorFlow, LangChain, and Transformer models. Seeking opportunities to contribute to innovative projects that merge modern software development with AI to drive efficiency and technological advancement.</p>
 
                         <ul className="mt-8 flex gap-4">
                             <li className="text-black"><a href="https://www.linkedin.com/in/afzaalahmad845/" target="_blank"><FaLinkedin className="w-12 h-12" /></a></li>

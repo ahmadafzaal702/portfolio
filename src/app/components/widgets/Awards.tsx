@@ -21,7 +21,7 @@ const Awards = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.5 }}
                     >
-                        <h3>Awards</h3>
+                        <h3>Certifications & Professional Development</h3>
 
                         <ul className={`mt-2`}>
                             {
